@@ -6,3 +6,6 @@ localhost
 
 [windows]
 9.123.32.24
+
+[jenkins]
+9.11.12.12
